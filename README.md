@@ -9,10 +9,9 @@ This project simulates a production network for a small company. The company has
 * In a separate terminal, run the Mininet file with the command `sudo python ~/final_skel.py`
 * The Mininet file should now be running and waiting for commands `mininet>`
 ## Testing the Network
-First we verify that the devices are successfully created using the `nodes` command:  
-
+First we verify that the devices are successfully created using the `nodes` command:<br/>
 ![sample output](/images/snip-1.png)  
-
+<br/><br/>
 Next, we verify that the links are successfully created using the `net` command: 
 ![sample output](/images/snip-2.png)  
 Verify that the IP addresses are correct using the `dump` command:  

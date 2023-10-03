@@ -9,8 +9,8 @@ This project simulates a production network for a small company. The company has
 * In a separate terminal, run the Mininet file with the command `sudo python ~/final_skel.py`
 * The Mininet file should now be running and waiting for commands `mininet>`
 ## Testing the Network
-First we verify that the devices are successfully created using the `nodes` command.\
-![sample output](/images/snip-1.png)\
+First we verify that the devices are successfully created using the `nodes` command.  
+![sample output](/images/snip-1.png)  
 Next, we verify that the links are successfully created using the `net` command
 Verify that the IP addresses are correct using the `dump` command
 Use the `pingall` command to verify that the devices can communicate on the network. Note that this takes up to 10 minutes to complete and due to the controller configuration, communication is only allowed between authorized parties.

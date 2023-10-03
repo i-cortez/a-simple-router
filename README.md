@@ -10,7 +10,8 @@ This project simulates a production network for a small company. The company has
 * The Mininet file should now be running and waiting for commands `mininet>`
 ## Testing the Network
 First we verify that the devices are successfully created using the `nodes` command:<br/>
-![sample output](/images/snip-1.png)  
+![sample output](/images/snip-1.png)<br/>
+Take note of the host names under `available nodes are:`.
 <br/><br/>
 Next, we verify that the links are successfully created using the `net` command: 
 ![sample output](/images/snip-2.png)  

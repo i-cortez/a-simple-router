@@ -1,2 +1,3 @@
-# A Simple Router
-Final Project for CSE 150 at UC Santa Cruz
+# A Simple Router - Final Project for CSE 150
+## Description
+This project simulates a production network for a small company. The company has a 2 floor building with each floor having its own switches and subnets. In addition, there is a switch and subnet for all the servers in the data center, and a core switch connecting everything together. The goal is to protect the company network from outside access and to allow or block traffic between the internal hosts and servers. This is achieved by implementing routing between devices on different subnets and implementing firewalls for certain subnets.
